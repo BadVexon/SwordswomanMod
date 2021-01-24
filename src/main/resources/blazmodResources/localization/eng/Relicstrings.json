@@ -1,0 +1,66 @@
+{
+  "blazmod:Venustas": {
+    "NAME": "Venustas",
+    "FLAVOR": "Only a leader who helps people regardless of their background can wield this blade.",
+    "DESCRIPTIONS": [
+      "At the start of your turn and whenever you change Stances, draw #b1 card, then discard #b1 card."
+    ]
+  },
+  "blazmod:Raikiri": {
+    "NAME": "Raikiri",
+    "FLAVOR": "Blade cuts, lightning follows.",
+    "DESCRIPTIONS": [
+      "The third time you change Stances each combat, remove all your debuffs."
+    ]
+  },
+  "blazmod:BladeOfPurification": {
+    "NAME": "Blade of Purification",
+    "FLAVOR": "Those who completes this blade's trials are freed from all impure thoughts.",
+    "DESCRIPTIONS": [
+      "The first time you play an #yAttack that costs #b2 or more each turn, deal #b5 damage to ALL enemies."
+    ]
+  },
+  "blazmod:ConfectionCutter": {
+    "NAME": "Confection Cutter",
+    "FLAVOR": "Using a Katana to cut chocolate is far from State-of-the-art.",
+    "DESCRIPTIONS": [
+      "When you discard your #b5th card each turn, gain #b1 #yStrength."
+    ]
+  },
+  "blazmod:EightLifeKatana": {
+    "NAME": "Eight-Life Katana",
+    "FLAVOR": "The fate of every living creature in the sky rests within its eight gems.",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add a random card with #yReverb from your draw pile to your hand."
+    ]
+  },
+  "blazmod:UnsignedBlade": {
+    "NAME": "Unsigned Blade",
+    "FLAVOR": "A good blade needs no signation from its maker, its wielder is enough. ",
+    "DESCRIPTIONS": [
+      "Whenever you apply a debuff to yourself, gain #b5 #yBlock."
+    ]
+  },
+  "blazmod:SamuraiSword": {
+    "NAME": "Samurai Sword",
+    "FLAVOR": "A true Samurai can use any blade they come across. Even this model blade, Gozaru!",
+    "DESCRIPTIONS": [
+      "Gain [E] at the start of your turn. Your first #yAttack each turn deals #b1 damage."
+    ]
+  },
+  "blazmod:SoshuMasabe": {
+    "NAME": "Soshu Masamune",
+    "FLAVOR": "This blade shows its true worth only to those who have attained enlightenment.",
+    "DESCRIPTIONS": [
+      "Replaces ",
+      ".[] NL At the start of your turn and whenever you change Stances, draw #b2 card, then discard #b2 cards."
+    ]
+  },
+  "blazmod:Vyxaba": {
+    "NAME": "Vyxaba",
+    "FLAVOR": "Oira! Punk! Witness the true power of Vyrn, the likes of which you have never seen before.",
+    "DESCRIPTIONS": [
+      "Upon pickup, duplicate a card in your deck. NL The first time you play a card each turn, add a random card with that card's name from your draw pile to your hand."
+    ]
+  }
+}

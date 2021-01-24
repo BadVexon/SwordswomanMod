@@ -1,0 +1,31 @@
+[
+  {
+    "PROPER_NAME": "Stance Swap",
+    "NAMES": [
+      "stance swap",
+      "stance_swap"
+    ],
+    "DESCRIPTION": "Switch between Dawnfly Stance and Freeflutter Stance."
+  },
+  {
+    "PROPER_NAME": "Reverb",
+    "NAMES": [
+      "reverb"
+    ],
+    "DESCRIPTION": "Effect activates once for each time you have played a card with this name this combat."
+  },
+  {
+    "PROPER_NAME": "Reflection",
+    "NAMES": [
+      "reflection"
+    ],
+    "DESCRIPTION": "This turn, deal fully blocked damage back to the attacker."
+  },
+  {
+    "PROPER_NAME": "Trance",
+    "NAMES": [
+      "trance"
+    ],
+    "DESCRIPTION": "When you discard this card, activate its effects and its Trance effect."
+  }
+]

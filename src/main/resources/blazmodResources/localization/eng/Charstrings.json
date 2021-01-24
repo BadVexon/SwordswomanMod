@@ -1,0 +1,13 @@
+{
+  "blazmod:TheSwordswoman": {
+    "NAMES": [
+      "The Swordswoman",
+      "the Swordswoman"
+    ],
+    "TEXT": [
+      "A skyfaring skilled Swordswoman who wandered into the spire looking for the Captain. NL A character that has different movesets based on her sword stances. Based off Narmaya from Granblue Fantasy.",
+      "NL TODO: Change this text",
+      "Navigating an unlit street, you come across several hooded figures in the midst of some dark ritual. As you approach, they turn to you in eerie unison. The tallest among them bares fanged teeth and extends a long, pale hand towards you. NL ~\"Join~ ~us~ ~TODO:~ ~one,~ ~and~ ~feel~ ~the~ ~warmth~ ~of~ ~the~ ~Spire.\"~"
+    ]
+  }
+}
